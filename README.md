@@ -1,4 +1,4 @@
-# robotic_subject
+# robotics_subject
 
 This package contains the simulation and low-level core of the jetauto robot that will be used in the robotics discipline.
 
