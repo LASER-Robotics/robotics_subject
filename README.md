@@ -29,25 +29,25 @@ This package contains the simulation and low-level core of the jetauto robot tha
 1 - Launch the description of the jet auto transformations.
 
 ``` sh
-  ros2 launch robotic_subject robot_description.launch.py
+  ros2 launch robotics_subject robot_description.launch.py
 ```
 
 2 - Launch the simulation world.
 
 ``` sh
-  ros2 launch robotic_subject simulation_world.launch.py
+  ros2 launch robotics_subject simulation_world.launch.py
 ```
 
 3 - Launch the ekf.
 
 ``` sh
-  ros2 launch robotic_subject ekf.launch.py
+  ros2 launch robotics_subject ekf.launch.py
 ```
 
 4 - Launch the rviz.
 
 ``` sh
-  ros2 launch robotic_subject rviz.launch.py
+  ros2 launch robotics_subject rviz.launch.py
 ```
 
 5 - Launch the teleop.
